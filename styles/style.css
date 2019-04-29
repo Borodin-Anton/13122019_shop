@@ -1,0 +1,13 @@
+@import 'blocks/common/body.css';
+@import 'blocks/common/wrapper.css';
+@import 'blocks/header/header.css';
+@import 'blocks/header/icon-text.css';
+@import 'blocks/header/logo.css';
+@import 'blocks/header/navigation.css';
+@import 'blocks/main/line.css';
+@import 'blocks/main/links-navigation.css';
+@import 'blocks/main/title.css';
+@import 'blocks/main/categories.css';
+@import 'blocks/main/goods-item.css';
+@import 'blocks/main/goods-pages.css';
+@import 'blocks/footer/footer.css';

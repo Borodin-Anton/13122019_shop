@@ -1,0 +1,15 @@
+.logo {
+    width: 42px;
+    height: 42px;
+    background: url(../../images/icons/logo.jpg) center center / cover no-repeat;
+}
+
+.logo_margin-right {
+    margin-right: 15px;
+}
+
+.preloader {
+    background: url(../../images/preloader/preloader.svg) center center / cover no-repeat;
+    width: 150px;
+    height: 150px;
+}
