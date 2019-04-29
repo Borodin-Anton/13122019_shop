@@ -1,3 +1,4 @@
+let a = 'Hello';
 let gulp = require('gulp'), 
     cssimport = require('gulp-cssimport'),
     cleanCSS = require('gulp-clean-css'),
